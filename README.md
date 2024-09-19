@@ -1,4 +1,4 @@
-# budget-tracker-using-html-css-and-javascript
+# Budget-tracker-using-html-css-and-javascript
 
 A Budget Tracker web application built using HTML, CSS, and JavaScript to help you manage your finances effectively! This simple yet powerful tool enables users to monitor their income, expenses, and savings in real time, providing a clear visual representation of their financial standing.
 
